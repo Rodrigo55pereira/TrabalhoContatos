@@ -1,0 +1,4 @@
+org\contato\servlets\LoginServlets.class
+org\contato\servlets\ExcluirContatoServlets.class
+org\contato\servlets\ContatoServlets.class
+org\contato\servlets\UsuarioServlets.class
